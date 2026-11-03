@@ -24,4 +24,4 @@ xcodebuild -project SubscriptionWallet.xcodeproj -scheme SubscriptionWallet \
 
 ## 素材与许可
 
-源代码按 [MIT License](LICENSE) 开源。第三方服务名称和商标属于各自权利人；本仓库不包含从 App Store 获取的第三方品牌图标，界面会使用内置占位样式。应用名称与图形标识并不暗示任何第三方背书。
+源代码按 [MIT License](LICENSE) 开源。第三方品牌图标、服务名称和商标属于各自权利人，不属于本项目的 MIT 授权范围；图标来源见 [品牌图标说明](docs/brand-icons.md)。使用或再分发这些素材时，请自行确认相关权利。应用名称与图形标识并不暗示任何第三方背书。
