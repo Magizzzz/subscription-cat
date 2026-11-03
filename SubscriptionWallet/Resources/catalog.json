@@ -1,0 +1,2017 @@
+[
+  {
+    "id": "tencent_video",
+    "name": "腾讯视频",
+    "category": "entertainment",
+    "aliases": [
+      "腾讯视频会员"
+    ],
+    "tags": [
+      "video"
+    ],
+    "tiers": [
+      {
+        "amount": "25",
+        "label": "VIP 连续包月"
+      },
+      {
+        "amount": "30",
+        "label": "VIP 单月"
+      },
+      {
+        "amount": "50",
+        "label": "SVIP 单月"
+      }
+    ]
+  },
+  {
+    "id": "iqiyi",
+    "name": "爱奇艺",
+    "category": "entertainment",
+    "aliases": [],
+    "tags": [
+      "video"
+    ],
+    "tiers": [
+      {
+        "amount": "25",
+        "label": "黄金 连续包月"
+      },
+      {
+        "amount": "30",
+        "label": "黄金 单月"
+      },
+      {
+        "amount": "40",
+        "label": "白金"
+      }
+    ]
+  },
+  {
+    "id": "qq_music",
+    "name": "QQ音乐",
+    "category": "entertainment",
+    "aliases": [
+      "绿钻"
+    ],
+    "tags": [
+      "music"
+    ],
+    "tiers": [
+      {
+        "amount": "12",
+        "label": "豪华绿钻 连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "豪华绿钻 单月"
+      },
+      {
+        "amount": "28",
+        "label": "超级会员"
+      }
+    ]
+  },
+  {
+    "id": "taobao_88vip",
+    "name": "88VIP",
+    "category": "lifeShopping",
+    "aliases": [
+      "淘宝会员"
+    ],
+    "tags": [
+      "shopping"
+    ],
+    "tiers": [
+      {
+        "amount": "7.33",
+        "label": "88元/年 折算"
+      },
+      {
+        "amount": "14",
+        "label": "168元/年 折算"
+      },
+      {
+        "amount": "74",
+        "label": "888元/年 折算"
+      }
+    ]
+  },
+  {
+    "id": "netease_music",
+    "name": "网易云音乐",
+    "category": "entertainment",
+    "aliases": [
+      "网易云",
+      "黑胶"
+    ],
+    "tags": [
+      "music"
+    ],
+    "tiers": [
+      {
+        "amount": "8",
+        "label": "畅听会员"
+      },
+      {
+        "amount": "15",
+        "label": "黑胶 VIP"
+      },
+      {
+        "amount": "28",
+        "label": "黑胶 SVIP"
+      }
+    ]
+  },
+  {
+    "id": "baidu_netdisk",
+    "name": "百度网盘",
+    "category": "storageEfficiency",
+    "aliases": [
+      "百度云"
+    ],
+    "tags": [
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "普通会员"
+      },
+      {
+        "amount": "30",
+        "label": "超级会员 连续包月"
+      },
+      {
+        "amount": "40",
+        "label": "超级会员 单月"
+      }
+    ]
+  },
+  {
+    "id": "bilibili",
+    "name": "哔哩哔哩大会员",
+    "category": "entertainment",
+    "aliases": [
+      "B站",
+      "bilibili"
+    ],
+    "tags": [
+      "video"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "大会员 连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "大会员 单月"
+      },
+      {
+        "amount": "45",
+        "label": "超级大会员"
+      }
+    ]
+  },
+  {
+    "id": "apple_icloud",
+    "name": "iCloud+",
+    "category": "storageEfficiency",
+    "aliases": [
+      "iCloud",
+      "苹果云"
+    ],
+    "tags": [
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "6",
+        "label": "50GB"
+      },
+      {
+        "amount": "21",
+        "label": "200GB"
+      },
+      {
+        "amount": "68",
+        "label": "2TB"
+      }
+    ]
+  },
+  {
+    "id": "jd_plus",
+    "name": "京东 PLUS",
+    "category": "lifeShopping",
+    "aliases": [
+      "京东会员"
+    ],
+    "tags": [
+      "shopping"
+    ],
+    "tiers": [
+      {
+        "amount": "8.25",
+        "label": "99元/年 折算"
+      },
+      {
+        "amount": "12.42",
+        "label": "149元/年 折算"
+      },
+      {
+        "amount": "16.5",
+        "label": "198元/年 折算"
+      }
+    ]
+  },
+  {
+    "id": "youku",
+    "name": "优酷",
+    "category": "entertainment",
+    "aliases": [],
+    "tags": [
+      "video"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "VIP 连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "VIP 单月"
+      },
+      {
+        "amount": "30",
+        "label": "SVIP"
+      }
+    ]
+  },
+  {
+    "id": "aigei",
+    "name": "爱给网",
+    "category": "aiCreation",
+    "aliases": [
+      "爱给",
+      "aigei",
+      "爱给网铜牌会员"
+    ],
+    "tags": [
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "39",
+        "label": "铜牌会员 月付"
+      },
+      {
+        "amount": "10.75",
+        "label": "铜牌会员 年付 ¥129 折合"
+      },
+      {
+        "amount": "29",
+        "label": "荣誉会员 月付"
+      },
+      {
+        "amount": "8.25",
+        "label": "荣誉会员 年付 ¥99 折合"
+      }
+    ]
+  },
+  {
+    "id": "jimeng",
+    "name": "即梦AI",
+    "category": "aiCreation",
+    "aliases": [
+      "即梦",
+      "Jimeng",
+      "Dreamina"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "41.67",
+        "label": "年付 ¥500 折合"
+      }
+    ]
+  },
+  {
+    "id": "libtv",
+    "name": "LibTV",
+    "category": "aiCreation",
+    "aliases": [
+      "Lib TV"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "333.25",
+        "label": "年付 ¥3999 折合"
+      }
+    ]
+  },
+  {
+    "id": "stash",
+    "name": "Stash 机场",
+    "category": "other",
+    "aliases": [
+      "Stash",
+      "机场"
+    ],
+    "tags": [
+      "tool"
+    ],
+    "tiers": [
+      {
+        "amount": "16.67",
+        "label": "年付 ¥200 折合"
+      }
+    ]
+  },
+  {
+    "id": "apple_creator_studio",
+    "name": "Apple Creator Studio",
+    "category": "aiCreation",
+    "aliases": [
+      "苹果创作坊",
+      "创作者工作室",
+      "Final Cut Pro",
+      "FCP",
+      "Logic Pro",
+      "Pixelmator Pro",
+      "Motion",
+      "Compressor",
+      "MainStage"
+    ],
+    "tags": [
+      "creator",
+      "video",
+      "music"
+    ],
+    "tiers": [
+      {
+        "amount": "18",
+        "label": "月付"
+      }
+    ]
+  },
+  {
+    "id": "artlist",
+    "name": "Artlist",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "70",
+        "label": "Social 折合"
+      },
+      {
+        "amount": "145",
+        "label": "Personal 折合"
+      },
+      {
+        "amount": "180.65",
+        "label": "Music & SFX Pro 年付 $299 折合"
+      }
+    ]
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "ai"
+    ],
+    "tiers": [
+      {
+        "amount": "145",
+        "label": "Pro 折合"
+      },
+      {
+        "amount": "725",
+        "label": "Max 5x 折合"
+      },
+      {
+        "amount": "1450",
+        "label": "Max 20x 折合"
+      }
+    ]
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "category": "aiCreation",
+    "aliases": [
+      "GPT"
+    ],
+    "tags": [
+      "ai"
+    ],
+    "tiers": [
+      {
+        "amount": "145",
+        "label": "Plus 折合"
+      },
+      {
+        "amount": "185",
+        "label": "Plus 代充常见价"
+      },
+      {
+        "amount": "1450",
+        "label": "Pro 折合"
+      }
+    ]
+  },
+  {
+    "id": "mango_tv",
+    "name": "芒果TV",
+    "category": "entertainment",
+    "aliases": [
+      "芒果"
+    ],
+    "tags": [
+      "video"
+    ],
+    "tiers": [
+      {
+        "amount": "22",
+        "label": "连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "单月"
+      },
+      {
+        "amount": "30",
+        "label": "全屏会员"
+      }
+    ]
+  },
+  {
+    "id": "wps",
+    "name": "WPS",
+    "category": "storageEfficiency",
+    "aliases": [
+      "WPS会员",
+      "WPS超级会员",
+      "金山办公",
+      "金山文档"
+    ],
+    "tags": [
+      "office"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "会员"
+      },
+      {
+        "amount": "15",
+        "label": "超级会员 连续包月"
+      },
+      {
+        "amount": "30",
+        "label": "超级会员 单月"
+      }
+    ]
+  },
+  {
+    "id": "quark",
+    "name": "夸克",
+    "category": "storageEfficiency",
+    "aliases": [
+      "夸克网盘"
+    ],
+    "tags": [
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "20",
+        "label": "SVIP 连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "SVIP 单月"
+      },
+      {
+        "amount": "30",
+        "label": "SVIP Pro"
+      }
+    ]
+  },
+  {
+    "id": "eleme",
+    "name": "饿了么会员",
+    "category": "lifeShopping",
+    "aliases": [
+      "超级吃货卡"
+    ],
+    "tags": [
+      "shopping"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "超级吃货卡"
+      },
+      {
+        "amount": "12",
+        "label": "吃货卡 连续包月"
+      },
+      {
+        "amount": "15",
+        "label": "吃货卡 单月"
+      }
+    ]
+  },
+  {
+    "id": "apple_music",
+    "name": "Apple Music",
+    "category": "entertainment",
+    "aliases": [
+      "苹果音乐"
+    ],
+    "tags": [
+      "music"
+    ],
+    "tiers": [
+      {
+        "amount": "5",
+        "label": "学生"
+      },
+      {
+        "amount": "11",
+        "label": "个人"
+      },
+      {
+        "amount": "17",
+        "label": "家庭"
+      }
+    ]
+  },
+  {
+    "id": "weread",
+    "name": "微信读书",
+    "category": "readingLearning",
+    "aliases": [
+      "读书会员"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "连续包月"
+      },
+      {
+        "amount": "19",
+        "label": "付费会员"
+      },
+      {
+        "amount": "30",
+        "label": "单月"
+      }
+    ]
+  },
+  {
+    "id": "ximalaya",
+    "name": "喜马拉雅",
+    "category": "readingLearning",
+    "aliases": [],
+    "tags": [
+      "reading"
+    ],
+    "tiers": [
+      {
+        "amount": "18",
+        "label": "连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "VIP 单月"
+      },
+      {
+        "amount": "30",
+        "label": "超级会员"
+      }
+    ]
+  },
+  {
+    "id": "zhihu",
+    "name": "知乎盐选",
+    "category": "readingLearning",
+    "aliases": [
+      "盐选"
+    ],
+    "tags": [
+      "reading"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "盐选 连续包月"
+      },
+      {
+        "amount": "19",
+        "label": "盐选 单月"
+      },
+      {
+        "amount": "25",
+        "label": "超级盐选"
+      }
+    ]
+  },
+  {
+    "id": "meituan",
+    "name": "美团会员",
+    "category": "lifeShopping",
+    "aliases": [
+      "美团神券",
+      "外卖会员"
+    ],
+    "tags": [
+      "shopping"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "会员券包"
+      },
+      {
+        "amount": "15",
+        "label": "神券包"
+      }
+    ]
+  },
+  {
+    "id": "xunlei",
+    "name": "迅雷",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "白金会员"
+      },
+      {
+        "amount": "20",
+        "label": "超级会员 连续包月"
+      },
+      {
+        "amount": "30",
+        "label": "超级会员 单月"
+      }
+    ]
+  },
+  {
+    "id": "aliyun_drive",
+    "name": "阿里云盘",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "会员"
+      },
+      {
+        "amount": "15",
+        "label": "SVIP 连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "SVIP 单月"
+      }
+    ]
+  },
+  {
+    "id": "keep",
+    "name": "Keep",
+    "category": "lifeShopping",
+    "aliases": [],
+    "tags": [
+      "fitness"
+    ],
+    "tiers": [
+      {
+        "amount": "19",
+        "label": "连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "单月"
+      }
+    ]
+  },
+  {
+    "id": "qq_vip",
+    "name": "QQ超级会员",
+    "category": "other",
+    "aliases": [
+      "SVIP"
+    ],
+    "tags": [
+      "social"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "QQ 会员"
+      },
+      {
+        "amount": "20",
+        "label": "超级会员"
+      }
+    ]
+  },
+  {
+    "id": "doubao",
+    "name": "豆包",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "kimi",
+    "name": "Kimi",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "ai"
+    ],
+    "tiers": [
+      {
+        "amount": "49",
+        "label": "会员"
+      },
+      {
+        "amount": "99",
+        "label": "高级会员"
+      }
+    ]
+  },
+  {
+    "id": "jianying",
+    "name": "剪映",
+    "category": "aiCreation",
+    "aliases": [
+      "剪映专业版"
+    ],
+    "tags": [
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "25",
+        "label": "VIP 连续包月"
+      },
+      {
+        "amount": "40",
+        "label": "VIP 单月"
+      },
+      {
+        "amount": "59",
+        "label": "SVIP"
+      },
+      {
+        "amount": "14",
+        "label": "年付 ¥168 折合"
+      }
+    ]
+  },
+  {
+    "id": "meitu",
+    "name": "美图秀秀",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "VIP 连续包月"
+      },
+      {
+        "amount": "30",
+        "label": "VIP 单月"
+      }
+    ]
+  },
+  {
+    "id": "baidu_wenku",
+    "name": "百度文库",
+    "category": "readingLearning",
+    "aliases": [],
+    "tags": [
+      "reading"
+    ],
+    "tiers": [
+      {
+        "amount": "20",
+        "label": "VIP 连续包月"
+      },
+      {
+        "amount": "30",
+        "label": "VIP 单月"
+      }
+    ]
+  },
+  {
+    "id": "migu_video",
+    "name": "咪咕视频",
+    "category": "entertainment",
+    "aliases": [],
+    "tags": [
+      "video"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "钻石会员"
+      }
+    ]
+  },
+  {
+    "id": "tencent_sports",
+    "name": "腾讯体育",
+    "category": "entertainment",
+    "aliases": [],
+    "tags": [
+      "video"
+    ],
+    "tiers": [
+      {
+        "amount": "30",
+        "label": "体育会员"
+      },
+      {
+        "amount": "50",
+        "label": "超级会员"
+      }
+    ]
+  },
+  {
+    "id": "game_accelerator",
+    "name": "游戏加速器",
+    "category": "entertainment",
+    "aliases": [
+      "网易UU",
+      "迅游",
+      "加速器"
+    ],
+    "tags": [
+      "game"
+    ],
+    "tiers": [
+      {
+        "amount": "15",
+        "label": "连续包月"
+      },
+      {
+        "amount": "30",
+        "label": "单月"
+      }
+    ]
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "category": "aiCreation",
+    "aliases": [
+      "MJ"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "72",
+        "label": "Basic 折合"
+      },
+      {
+        "amount": "217",
+        "label": "Standard 折合"
+      },
+      {
+        "amount": "434",
+        "label": "Pro 折合"
+      }
+    ]
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "ai",
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "145",
+        "label": "Pro 折合"
+      },
+      {
+        "amount": "435",
+        "label": "Pro+ 折合"
+      },
+      {
+        "amount": "1450",
+        "label": "Ultra 折合"
+      }
+    ]
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "25",
+        "label": "可画 高级版"
+      },
+      {
+        "amount": "45",
+        "label": "团队版"
+      }
+    ]
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe",
+    "category": "aiCreation",
+    "aliases": [
+      "Creative Cloud",
+      "PS",
+      "PR"
+    ],
+    "tags": [
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "88",
+        "label": "摄影计划"
+      },
+      {
+        "amount": "168",
+        "label": "单个应用"
+      },
+      {
+        "amount": "538",
+        "label": "全家桶"
+      }
+    ]
+  },
+  {
+    "id": "xingtu",
+    "name": "醒图",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "会员"
+      },
+      {
+        "amount": "15",
+        "label": "连续包月"
+      },
+      {
+        "amount": "25",
+        "label": "单月"
+      }
+    ]
+  },
+  {
+    "id": "apple_one",
+    "name": "Apple One",
+    "category": "entertainment",
+    "aliases": [
+      "苹果全家桶"
+    ],
+    "tags": [
+      "video",
+      "music",
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "30",
+        "label": "个人"
+      },
+      {
+        "amount": "40",
+        "label": "家庭"
+      }
+    ]
+  },
+  {
+    "id": "sams_club",
+    "name": "山姆会员",
+    "category": "lifeShopping",
+    "aliases": [
+      "山姆"
+    ],
+    "tags": [
+      "shopping"
+    ],
+    "tiers": [
+      {
+        "amount": "21.67",
+        "label": "260元/年 折算"
+      },
+      {
+        "amount": "56.67",
+        "label": "680元/年 折算"
+      }
+    ]
+  },
+  {
+    "id": "weibo",
+    "name": "微博会员",
+    "category": "other",
+    "aliases": [],
+    "tags": [
+      "social"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "会员"
+      },
+      {
+        "amount": "15",
+        "label": "年费会员 折算"
+      }
+    ]
+  },
+  {
+    "id": "tencent_meeting",
+    "name": "腾讯会议",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "office"
+    ],
+    "tiers": [
+      {
+        "amount": "30",
+        "label": "商业版"
+      },
+      {
+        "amount": "50",
+        "label": "企业版"
+      }
+    ]
+  },
+  {
+    "id": "tencent_weiyun",
+    "name": "腾讯微云",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "10",
+        "label": "会员"
+      },
+      {
+        "amount": "30",
+        "label": "超级会员"
+      }
+    ]
+  },
+  {
+    "id": "drive_115",
+    "name": "115",
+    "category": "storageEfficiency",
+    "aliases": [
+      "115网盘"
+    ],
+    "tags": [
+      "storage"
+    ],
+    "tiers": [
+      {
+        "amount": "25",
+        "label": "VIP"
+      },
+      {
+        "amount": "40",
+        "label": "VIP 单月"
+      }
+    ]
+  },
+  {
+    "id": "dedao",
+    "name": "得到",
+    "category": "readingLearning",
+    "aliases": [],
+    "tags": [
+      "reading"
+    ],
+    "tiers": [
+      {
+        "amount": "30.42",
+        "label": "365元/年 折算"
+      }
+    ]
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "category": "aiCreation",
+    "aliases": [
+      "Google AI Pro",
+      "Google AI Ultra",
+      "Bard",
+      "谷歌AI"
+    ],
+    "tags": [
+      "ai"
+    ],
+    "tiers": [
+      {
+        "amount": "144.93",
+        "label": "AI Pro 折合"
+      },
+      {
+        "amount": "1812.43",
+        "label": "AI Ultra 折合"
+      },
+      {
+        "amount": "4.83",
+        "label": "AI Pro 年付 $8 折合"
+      }
+    ]
+  },
+  {
+    "id": "grok",
+    "name": "Grok",
+    "category": "aiCreation",
+    "aliases": [
+      "SuperGrok",
+      "xAI"
+    ],
+    "tags": [
+      "ai"
+    ],
+    "tiers": [
+      {
+        "amount": "217.5",
+        "label": "SuperGrok 折合"
+      },
+      {
+        "amount": "2175",
+        "label": "SuperGrok Heavy 折合"
+      }
+    ]
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "category": "aiCreation",
+    "aliases": [
+      "Pplx"
+    ],
+    "tags": [
+      "ai"
+    ],
+    "tiers": [
+      {
+        "amount": "145",
+        "label": "Pro 折合"
+      },
+      {
+        "amount": "1450",
+        "label": "Max 折合"
+      }
+    ]
+  },
+  {
+    "id": "github_copilot",
+    "name": "GitHub Copilot",
+    "category": "aiCreation",
+    "aliases": [
+      "Copilot"
+    ],
+    "tags": [
+      "ai",
+      "tool"
+    ],
+    "tiers": [
+      {
+        "amount": "72.5",
+        "label": "Pro 折合"
+      },
+      {
+        "amount": "282.75",
+        "label": "Pro+ 折合"
+      }
+    ]
+  },
+  {
+    "id": "poe",
+    "name": "Poe",
+    "category": "aiCreation",
+    "aliases": [
+      "Quora Poe"
+    ],
+    "tags": [
+      "ai"
+    ],
+    "tiers": [
+      {
+        "amount": "144.93",
+        "label": "Poe 订阅 折合"
+      }
+    ]
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "category": "aiCreation",
+    "aliases": [
+      "Runway ML"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "108.75",
+        "label": "Standard 折合"
+      },
+      {
+        "amount": "253.75",
+        "label": "Pro 折合"
+      }
+    ]
+  },
+  {
+    "id": "suno",
+    "name": "Suno",
+    "category": "aiCreation",
+    "aliases": [
+      "Suno AI"
+    ],
+    "tags": [
+      "ai",
+      "music"
+    ],
+    "tiers": [
+      {
+        "amount": "72.5",
+        "label": "Pro 折合"
+      },
+      {
+        "amount": "217.5",
+        "label": "Premier 折合"
+      }
+    ]
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "aiCreation",
+    "aliases": [
+      "11labs",
+      "Eleven Labs"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ],
+    "tiers": [
+      {
+        "amount": "36.25",
+        "label": "Starter 折合"
+      },
+      {
+        "amount": "159.5",
+        "label": "Creator 折合"
+      },
+      {
+        "amount": "717.75",
+        "label": "Pro 折合"
+      }
+    ]
+  },
+  {
+    "id": "leonardo",
+    "name": "Leonardo.Ai",
+    "category": "aiCreation",
+    "aliases": [
+      "Leonardo"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "pika",
+    "name": "Pika",
+    "category": "aiCreation",
+    "aliases": [
+      "Pika Labs"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "luma",
+    "name": "Luma Dream Machine",
+    "category": "aiCreation",
+    "aliases": [
+      "Luma",
+      "Luma AI"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "higgsfield",
+    "name": "Higgsfield",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "manus",
+    "name": "Manus",
+    "category": "aiCreation",
+    "aliases": [
+      "Manus AI"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "ai",
+      "tool"
+    ]
+  },
+  {
+    "id": "replit",
+    "name": "Replit",
+    "category": "aiCreation",
+    "aliases": [
+      "Replit Core"
+    ],
+    "tags": [
+      "ai",
+      "tool"
+    ]
+  },
+  {
+    "id": "windsurf",
+    "name": "Windsurf",
+    "category": "aiCreation",
+    "aliases": [
+      "Codeium"
+    ],
+    "tags": [
+      "ai",
+      "tool"
+    ]
+  },
+  {
+    "id": "mistral",
+    "name": "Le Chat",
+    "category": "aiCreation",
+    "aliases": [
+      "Mistral",
+      "Le Chat Pro"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "qianwen",
+    "name": "通义千问",
+    "category": "aiCreation",
+    "aliases": [
+      "千问",
+      "通义",
+      "Qwen"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "wenxin",
+    "name": "文心一言",
+    "category": "aiCreation",
+    "aliases": [
+      "文心",
+      "ERNIE",
+      "文小言"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "xinghuo",
+    "name": "讯飞星火",
+    "category": "aiCreation",
+    "aliases": [
+      "星火",
+      "讯飞"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "zhipu",
+    "name": "智谱清言",
+    "category": "aiCreation",
+    "aliases": [
+      "清言",
+      "智谱",
+      "ChatGLM",
+      "GLM"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "hailuo",
+    "name": "海螺AI",
+    "category": "aiCreation",
+    "aliases": [
+      "海螺",
+      "MiniMax",
+      "Hailuo"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "kling",
+    "name": "可灵AI",
+    "category": "aiCreation",
+    "aliases": [
+      "可灵",
+      "Kling"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "vidu",
+    "name": "Vidu",
+    "category": "aiCreation",
+    "aliases": [
+      "生数科技"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "pixverse",
+    "name": "PixVerse",
+    "category": "aiCreation",
+    "aliases": [
+      "拍我AI"
+    ],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "yuanbao",
+    "name": "腾讯元宝",
+    "category": "aiCreation",
+    "aliases": [
+      "元宝"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "tiangong",
+    "name": "天工AI",
+    "category": "aiCreation",
+    "aliases": [
+      "天工",
+      "昆仑万维"
+    ],
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "xiaoyunque",
+    "name": "小云雀",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "ai",
+      "creator"
+    ]
+  },
+  {
+    "id": "gaoding",
+    "name": "稿定设计",
+    "category": "aiCreation",
+    "aliases": [
+      "稿定"
+    ],
+    "tags": [
+      "creator"
+    ]
+  },
+  {
+    "id": "qiantu",
+    "name": "千图网",
+    "category": "aiCreation",
+    "aliases": [
+      "千图"
+    ],
+    "tags": [
+      "creator"
+    ]
+  },
+  {
+    "id": "baotu",
+    "name": "包图网",
+    "category": "aiCreation",
+    "aliases": [
+      "包图"
+    ],
+    "tags": [
+      "creator"
+    ]
+  },
+  {
+    "id": "envato",
+    "name": "Envato Elements",
+    "category": "aiCreation",
+    "aliases": [
+      "Envato"
+    ],
+    "tags": [
+      "creator"
+    ]
+  },
+  {
+    "id": "epidemic_sound",
+    "name": "Epidemic Sound",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "creator",
+      "music"
+    ]
+  },
+  {
+    "id": "motion_array",
+    "name": "Motion Array",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "creator"
+    ]
+  },
+  {
+    "id": "storyblocks",
+    "name": "Storyblocks",
+    "category": "aiCreation",
+    "aliases": [],
+    "tags": [
+      "creator"
+    ]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "category": "entertainment",
+    "aliases": [
+      "奈飞",
+      "网飞"
+    ],
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "disney_plus",
+    "name": "Disney+",
+    "category": "entertainment",
+    "aliases": [
+      "迪士尼+",
+      "迪士尼"
+    ],
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "youtube_premium",
+    "name": "YouTube Premium",
+    "category": "entertainment",
+    "aliases": [
+      "油管会员",
+      "YouTube Music"
+    ],
+    "tags": [
+      "video",
+      "music"
+    ]
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "category": "entertainment",
+    "aliases": [
+      "声田"
+    ],
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "hbo_max",
+    "name": "HBO Max",
+    "category": "entertainment",
+    "aliases": [
+      "Max"
+    ],
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "prime_video",
+    "name": "Amazon Prime",
+    "category": "entertainment",
+    "aliases": [
+      "亚马逊Prime",
+      "Prime Video"
+    ],
+    "tags": [
+      "video",
+      "shopping"
+    ]
+  },
+  {
+    "id": "apple_tv_plus",
+    "name": "Apple TV+",
+    "category": "entertainment",
+    "aliases": [
+      "Apple TV"
+    ],
+    "tags": [
+      "video"
+    ]
+  },
+  {
+    "id": "apple_arcade",
+    "name": "Apple Arcade",
+    "category": "entertainment",
+    "aliases": [],
+    "tags": [
+      "game"
+    ]
+  },
+  {
+    "id": "playstation_plus",
+    "name": "PlayStation Plus",
+    "category": "entertainment",
+    "aliases": [
+      "PS Plus",
+      "PS+",
+      "PSN"
+    ],
+    "tags": [
+      "game"
+    ]
+  },
+  {
+    "id": "xbox_game_pass",
+    "name": "Xbox Game Pass",
+    "category": "entertainment",
+    "aliases": [
+      "XGP"
+    ],
+    "tags": [
+      "game"
+    ]
+  },
+  {
+    "id": "nintendo_online",
+    "name": "Nintendo Switch Online",
+    "category": "entertainment",
+    "aliases": [
+      "NSO",
+      "任天堂在线"
+    ],
+    "tags": [
+      "game"
+    ]
+  },
+  {
+    "id": "x_premium",
+    "name": "X Premium",
+    "category": "other",
+    "aliases": [
+      "推特蓝V",
+      "Twitter Blue",
+      "X Blue"
+    ],
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "discord_nitro",
+    "name": "Discord Nitro",
+    "category": "other",
+    "aliases": [
+      "Nitro"
+    ],
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "telegram_premium",
+    "name": "Telegram Premium",
+    "category": "other",
+    "aliases": [
+      "电报会员"
+    ],
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "linkedin_premium",
+    "name": "LinkedIn Premium",
+    "category": "other",
+    "aliases": [
+      "领英会员",
+      "领英"
+    ],
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "patreon",
+    "name": "Patreon",
+    "category": "other",
+    "aliases": [],
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "category": "readingLearning",
+    "aliases": [],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "id": "substack",
+    "name": "Substack",
+    "category": "readingLearning",
+    "aliases": [],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "id": "audible",
+    "name": "Audible",
+    "category": "readingLearning",
+    "aliases": [],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "id": "kindle_unlimited",
+    "name": "Kindle Unlimited",
+    "category": "readingLearning",
+    "aliases": [
+      "Kindle会员"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "category": "readingLearning",
+    "aliases": [
+      "多邻国"
+    ],
+    "tags": [
+      "reading"
+    ]
+  },
+  {
+    "id": "google_one",
+    "name": "Google One",
+    "category": "storageEfficiency",
+    "aliases": [
+      "谷歌云端硬盘",
+      "Google Drive"
+    ],
+    "tags": [
+      "storage"
+    ]
+  },
+  {
+    "id": "dropbox",
+    "name": "Dropbox",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "storage"
+    ]
+  },
+  {
+    "id": "microsoft_365",
+    "name": "Microsoft 365",
+    "category": "storageEfficiency",
+    "aliases": [
+      "Office 365",
+      "M365",
+      "Office"
+    ],
+    "tags": [
+      "office"
+    ]
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "office"
+    ]
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "tool",
+      "creator"
+    ]
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "category": "storageEfficiency",
+    "aliases": [
+      "GitHub Pro"
+    ],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "id": "onepassword",
+    "name": "1Password",
+    "category": "storageEfficiency",
+    "aliases": [
+      "一密码"
+    ],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "id": "nordvpn",
+    "name": "NordVPN",
+    "category": "storageEfficiency",
+    "aliases": [
+      "Nord"
+    ],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "id": "expressvpn",
+    "name": "ExpressVPN",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "id": "proton",
+    "name": "Proton",
+    "category": "storageEfficiency",
+    "aliases": [
+      "Proton Mail",
+      "Proton VPN"
+    ],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "id": "raycast",
+    "name": "Raycast",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "id": "setapp",
+    "name": "Setapp",
+    "category": "storageEfficiency",
+    "aliases": [],
+    "tags": [
+      "tool"
+    ]
+  }
+]
